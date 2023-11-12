@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @pestopasta74
-- 👀 I’m interested in making my code editor look as cute as possible
-- 🌱 I’m currently learning how to code, how to do maths and how to not explode.
-- 💞️ I’m looking to collaborate on simple code projects (because i'm not very good)
-- 📫 How to reach me E-mail: prestonwhiteman07@gmail.com
+🪐
