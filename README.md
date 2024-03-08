@@ -8,6 +8,7 @@ Hey girly! I'm Preston, a code person building fairly simple projects but workin
 - [Projectile-Motion-Sim](https://github.com/Quantum-Dev-Group/Projectile-Motion-Sim): A Python simulation of projectile motion using Pygame.
 - [Tic-Tac-Toe](https://github.com/pestopasta74/Tic-Tac-Toe): A simple terminal-based Tic-Tac-Toe game.
 - [Towers-of-Hanoi](https://github.com/pestopasta74/Towers-of-Hanoi): A command-line implementation of the classic Towers of Hanoi puzzle.
+- [Computer-Science-Project](https://github.com/pestopasta74/Computer-Science-Project): The computer science project that I'm doing for A-level
 
 ## Get in Touch
 
